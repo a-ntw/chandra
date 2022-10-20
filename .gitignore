@@ -32,3 +32,10 @@ build/
 
 ### VS Code ###
 .vscode/
+/JMSDemo/dist/
+/JMSDemo/nbproject/private/
+/vSimpleFX/nbproject/private/
+/JavaFx_Samples/FXApp1/dist/
+/JavaFx_Samples/FXApp1/nbproject/private/
+/JavaFx_Samples/FXApp2/nbproject/private/
+/JavaFx_Samples/JavaFxApp/nbproject/private/
